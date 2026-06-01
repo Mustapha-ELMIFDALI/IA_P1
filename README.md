@@ -170,5 +170,3 @@ python etape4_shap/etape4_shap.py
 6. Akiba et al. (2019) — Optuna, KDD
 
 ---
-
-*Rapport complet disponible : [`rapport_fraud_detection.docx`](rapport_fraud_detection.docx)*
