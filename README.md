@@ -20,7 +20,7 @@
 ## Structure du Projet
 
 ```
-IA_P1/
+fraud-detection-robust-ml/
 ├── data/
 │   └── creditcard.csv              # Dataset (284 807 transactions)
 │
