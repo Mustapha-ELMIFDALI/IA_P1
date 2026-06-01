@@ -40,10 +40,9 @@ fraud-detection-robust-ml/
 │   └── figures/                    # 8 figures (PR/ROC, reliability diagrams...)
 │
 ├── etape4_shap/
-│   ├── etape4_shap.py              # Interprétabilité SHAP (XGBoost + RF)
-│   └── figures/                    # 8 figures (summary, waterfall, dependence...)
-│
-└── rapport_fraud_detection.docx    # Rapport professionnel complet (39 figures)
+    ├── etape4_shap.py              # Interprétabilité SHAP (XGBoost + RF)
+    └── figures/                    # 8 figures (summary, waterfall, dependence...)
+
 ```
 
 ---
